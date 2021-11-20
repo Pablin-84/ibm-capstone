@@ -1,2 +1,0 @@
-# ibm-capstone
-Testing testing
